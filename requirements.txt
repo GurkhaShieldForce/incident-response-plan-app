@@ -1,0 +1,2 @@
+flask
+fask_cors
