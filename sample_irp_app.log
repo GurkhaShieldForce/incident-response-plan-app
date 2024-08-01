@@ -11,7 +11,7 @@
 2024-07-23 10:04:43,454:INFO:127.0.0.1 - - [23/Jul/2024 10:04:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
 2024-07-23 10:04:50,631:INFO:127.0.0.1 - - [23/Jul/2024 10:04:50] "GET /api/activity/Eradication HTTP/1.1" 200 -
 2024-07-23 10:04:53,257:INFO:127.0.0.1 - - [23/Jul/2024 10:04:53] "GET /api/activity/Conduct%20Lessons%20Learned%20Session HTTP/1.1" 200 -
-2024-07-23 10:05:04,329:INFO: * Detected change in '/Users/abbaniya/Desktop/IT Projects/Incident Response /app.py', reloading
+2024-07-23 10:05:04,329:INFO: * Detected change in '/Path/IT Projects/Incident Response /app.py', reloading
 2024-07-23 10:05:04,349:INFO: * Restarting with stat
 2024-07-23 10:05:04,471:WARNING: * Debugger is active!
 2024-07-23 10:05:04,477:INFO: * Debugger PIN: 910-040-610
@@ -19,7 +19,7 @@
 2024-07-23 10:05:06,575:INFO: * Restarting with stat
 2024-07-23 10:05:06,652:WARNING: * Debugger is active!
 2024-07-23 10:05:06,657:INFO: * Debugger PIN: 910-040-610
-2024-07-23 10:05:09,750:INFO: * Detected change in '/Users/abbaniya/Desktop/IT Projects/Incident Response /app.py', reloading
+2024-07-23 10:05:09,750:INFO: * Detected change in '/PATH/IT Projects/Incident Response /app.py', reloading
 2024-07-23 10:05:09,771:INFO: * Restarting with stat
 2024-07-23 10:05:09,849:WARNING: * Debugger is active!
 2024-07-23 10:05:09,854:INFO: * Debugger PIN: 910-040-610
