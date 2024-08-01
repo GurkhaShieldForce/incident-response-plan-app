@@ -15,7 +15,7 @@
 2024-07-23 10:05:04,349:INFO: * Restarting with stat
 2024-07-23 10:05:04,471:WARNING: * Debugger is active!
 2024-07-23 10:05:04,477:INFO: * Debugger PIN: 910-040-610
-2024-07-23 10:05:06,557:INFO: * Detected change in '/Users/abbaniya/Desktop/IT Projects/Incident Response /app.py', reloading
+2024-07-23 10:05:06,557:INFO: * Detected change in '/Path/IT Projects/Incident Response /app.py', reloading
 2024-07-23 10:05:06,575:INFO: * Restarting with stat
 2024-07-23 10:05:06,652:WARNING: * Debugger is active!
 2024-07-23 10:05:06,657:INFO: * Debugger PIN: 910-040-610
